@@ -1,1 +1,2 @@
-tcp.cloudpub.ru:61895
+tcp.cloudpub.ru
+61895
